@@ -41,7 +41,7 @@
     },
     {
       "packageName": "photo.editor.collage",
-      "showEditorBanner": "true",
+      "showEditorBanner": "1",
       "showEditorBannerTip": "0: Hide, 1: Show Baner, 2: Show Smart Banner, other: use default"
     }
   ],

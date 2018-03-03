@@ -28,7 +28,7 @@
       "interstitialFAN": "interstitial FAN",
       "nativeAdMob": "native AdMob",
       "nativeFAN": "native FAN",
-      "packageName": "photo.editor.collage"
+      "packageName": "photo.editor.collage.abc"
     },
     {
       "bannerAdMob": "banner AdMob",
@@ -37,7 +37,7 @@
       "interstitialFAN": "interstitial FAN",
       "nativeAdMob": "native AdMob",
       "nativeFAN": "native FAN",
-      "packageName": "photo.editor.collage"
+      "packageName": "photo.editor.collage.testCustomIDOnline"
     }
   ],
   "whatsNewAdType": "custom",

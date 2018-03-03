@@ -8,6 +8,10 @@
     "adByAdMobs.editor.helladByAdMobsadByAdMobsp2",
     "adByAdMobs.editor.heladByAdMobsl22p"
   ],
+  "adByBanned": [
+    "photo.editor.collage.banned",
+    "adByFANs.adByFANs.adByFANsadByFANs"
+  ],
   "adByFANs": [
     "adByFANs.editor.collage",
     "adByFANs.editor.hellp",
@@ -15,6 +19,26 @@
     "adByFANs.editor.adByFANs",
     "adByFANs.adByFANs.hellp",
     "adByFANs.adByFANs.adByFANsadByFANs"
+  ],
+  "idAds": [
+    {
+      "bannerAdMob": "banner AdMob",
+      "bannerFAN": "banner FAN",
+      "interstitialAdMob": "interstitial AdMob",
+      "interstitialFAN": "interstitial FAN",
+      "nativeAdMob": "native AdMob",
+      "nativeFAN": "native FAN",
+      "packageName": "photo.editor.collage"
+    },
+    {
+      "bannerAdMob": "banner AdMob",
+      "bannerFAN": "banner FAN",
+      "interstitialAdMob": "interstitial AdMob",
+      "interstitialFAN": "interstitial FAN",
+      "nativeAdMob": "native AdMob",
+      "nativeFAN": "native FAN",
+      "packageName": "photo.editor.collage"
+    }
   ],
   "whatsNewAdType": "custom",
   "whatsNewAdTypeTips": "default|admob|fan|custom",

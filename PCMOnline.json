@@ -56,5 +56,7 @@
       "https://lh3.googleusercontent.com/5rsDRvRFVf1Pv2HeZxfAI6DxoFHQm9pIXOVBJnIMvv3xHG7IaSAGUk1-ryw0N2HX7Yk=h310",
       "https://lh3.googleusercontent.com/sqNBoYKvYT_d_xihN0GsI9mYZ5GAThwVF_CLXjAtOjBI3UH5E1tJ0eXFPIy8nZWk2w=h310"
     ]
-  }
+  },
+  "showEditorBanner":"true",
+  "showEditorBannerTips":"true|ok|show will be showed, other will not",
 }

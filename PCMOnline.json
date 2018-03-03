@@ -1,5 +1,5 @@
 {
-  "abcPCMVersion": "2",
+  "abcPCMVersion": "0",
   "adByAdMobs": [
     "adByAdMobs.editor.admob",
     "adByAdMobs.editor.hell1p",
@@ -22,7 +22,7 @@
     "appId": "photoBeautyPlus.makeup.camera",
     "appName": "Makeup Camera",
     "appUrl": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera",
-    "featureUrl": "",
+    "featureUrl": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera",
     "iconUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
     "pubName": "PHOTO BEAUTY PLUS",
     "screenshots": [

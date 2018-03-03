@@ -38,6 +38,11 @@
       "nativeAdMob": "native AdMob",
       "nativeFAN": "native FAN",
       "packageName": "photo.editor.collage.testCustomIDOnline"
+    },
+    {
+      "packageName": "photo.editor.collage",
+      "showEditorBanner": "true",
+      "showEditorBannerTip": "0: Hide, 1: Show Baner, 2: Show Smart Banner, other: use default"
     }
   ],
   "showEditorBanner": "true",

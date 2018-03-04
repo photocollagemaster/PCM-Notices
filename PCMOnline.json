@@ -69,18 +69,13 @@
   "whatsNewAdType": "custom",
   "whatsNewAdTypeTips": "default|admob|fan|custom",
   "whatsNewAppAdObject": {
-    "appId": "photoBeautyPlus.makeup.camera",
+    "appId": "pps.photo.editor.makeup.camera",
     "appName": "Makeup Camera",
-    "appUrl": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera",
-    "featureUrl": "https://radsffw.githubusercontent.com/premiumphotostudio/storage/master/m03cv.jpeg",
-    "iconUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-    "pubName": "PHOTO BEAUTY PLUS",
+    "appUrl": "https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera",
+    "featureUrl": "",
+    "iconUrl": "https://lh3.googleusercontent.com/C6tCtwTt2LviNeCfsL9xO6qmYiXWGzb7dHJs8tZvRnavYpx5GmohXepwivJWPlCvbw=w300",
+    "pubName": "",
     "screenshots": [
-      "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",
-      "https://lh3.googleusercontent.com/6-bsdFv-Ci4NPMlFHqQuCyKomdT3o0Alkx9sMvKLSiq_lm8kSJWca7mYrVQ_WTyMOw=h310",
-      "https://lh3.googleusercontent.com/iZcbyzeGOsVQP0MwzUygtWCqhRT_HP8RSE4UzYYlQPBWF_cr8W5BQxDr8K15MbHT-A=h310",
-      "https://lh3.googleusercontent.com/5rsDRvRFVf1Pv2HeZxfAI6DxoFHQm9pIXOVBJnIMvv3xHG7IaSAGUk1-ryw0N2HX7Yk=h310",
-      "https://lh3.googleusercontent.com/sqNBoYKvYT_d_xihN0GsI9mYZ5GAThwVF_CLXjAtOjBI3UH5E1tJ0eXFPIy8nZWk2w=h310"
     ]
   }
 }

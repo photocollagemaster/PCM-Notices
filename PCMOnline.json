@@ -4,7 +4,7 @@
     "photo.editor.collage.banned",
     "adByFANs.adByFANs.adByFANsadByFANs"
   ],
-  "homePageAdType": "custom",
+  "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
     "appId": "photoBeautyPlus.makeup.camera",
@@ -35,7 +35,7 @@
       "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
       "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "packageName": "pcm.photo.collage.master",
-      "whatsNewAdType": "custom",
+      "whatsNewAdType": "admob",
       "whatsNewAdTypeTips": "default|admob|fan|custom",
       "showEditorBanner": "1",
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
@@ -55,7 +55,7 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     }
   ],
-  "mainAdType": "admob",
+  "mainAdType": "fan",
   "mainAdTypeAdTypeTips": "default|admob|fan|custom",
   "showEditorBanner": "1",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",

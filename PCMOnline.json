@@ -52,7 +52,9 @@
       "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "packageName": "pcm.photo.collage.master",
       "whatsNewAdType": "custom",
-      "whatsNewAdTypeTips": "default|admob|fan|custom"
+      "whatsNewAdTypeTips": "default|admob|fan|custom",
+      "showEditorBanner": "1",
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     },
     {
       "bannerAdMob": "banner AdMob",

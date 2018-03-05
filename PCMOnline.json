@@ -40,13 +40,19 @@
   },
   "idAds": [
     {
-      "bannerAdMob": "banner AdMob",
-      "bannerFAN": "banner FAN",
-      "interstitialAdMob": "interstitial AdMob",
-      "interstitialFAN": "interstitial FAN",
-      "nativeAdMob": "native AdMob",
-      "nativeFAN": "native FAN",
-      "packageName": "photo.editor.collage.abc"
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "homePageAdType": "custom",
+      "homePageAdTypeTips": "default|admob|fan|custom",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+      "mainAdType": "admob",
+      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
+      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
+      "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "packageName": "pcm.photo.collage.master",
+      "whatsNewAdType": "custom",
+      "whatsNewAdTypeTips": "default|admob|fan|custom"
     },
     {
       "bannerAdMob": "banner AdMob",

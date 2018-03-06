@@ -4,6 +4,28 @@
     "photo.editor.collage.banned",
     "adByFANs.adByFANs.adByFANsadByFANs"
   ],
+  "adsCollection": [
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=com.IceStorm.DragBattle",
+      "photoUrl": "https://lh3.googleusercontent.com/tfWlQPLOt1OftR0rZY6XtPXH9xWDRBNQnum0ESHH7aa0vMtLrCOBLENAIW_uQOUveLo=w300"
+    },
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=com.nextgames.android.twd",
+      "photoUrl": "https://lh3.googleusercontent.com/SJ5P1397Jg1VfRRI98gA4KQmyIqTZyDNSHPdNQwEA_h46GSYEvME_s4DK1xr7_U11g=w300"
+    },
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300"
+    },
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera",
+      "photoUrl": "https://lh3.googleusercontent.com/C6tCtwTt2LviNeCfsL9xO6qmYiXWGzb7dHJs8tZvRnavYpx5GmohXepwivJWPlCvbw=w300"
+    },
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=photo.photoeditor.snappycamera.prettymakeup",
+      "photoUrl": "https://lh3.googleusercontent.com/S_pOlPsgSvGQMEI5H0VRNU_PnnfS9G-gvoaMIXv1Xqy3yVoGG3fsiIAC5KlOXCYqeag=w300"
+    }
+  ],
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
@@ -35,10 +57,10 @@
       "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
       "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "packageName": "pcm.photo.collage.master",
-      "whatsNewAdType": "admob",
-      "whatsNewAdTypeTips": "default|admob|fan|custom",
       "showEditorBanner": "1",
-      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+      "whatsNewAdType": "admob",
+      "whatsNewAdTypeTips": "default|admob|fan|custom"
     },
     {
       "bannerAdMob": "banner AdMob",

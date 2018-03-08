@@ -35,7 +35,7 @@
       "text": "Beauty App Photo"
     }
   ],
-  "homePageAdType": "fan",
+  "homePageAdType": "custom",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
     "appId": "photoBeautyPlus.makeup.camera",
@@ -70,27 +70,13 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
       "whatsNewAdType": "admob",
       "whatsNewAdTypeTips": "default|admob|fan|custom"
-    },
-    {
-      "bannerAdMob": "banner AdMob",
-      "bannerFAN": "banner FAN",
-      "interstitialAdMob": "interstitial AdMob",
-      "interstitialFAN": "interstitial FAN",
-      "nativeAdMob": "native AdMob",
-      "nativeFAN": "native FAN",
-      "packageName": "photo.editor.collage.testCustomIDOnline"
-    },
-    {
-      "packageName": "photo.editor.collage",
-      "showEditorBanner": "1",
-      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     }
   ],
-  "mainAdType": "fan",
+  "mainAdType": "admob",
   "mainAdTypeAdTypeTips": "default|admob|fan|custom",
-  "showEditorBanner": "1",
+  "showEditorBanner": "2",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
-  "whatsNewAdType": "fan",
+  "whatsNewAdType": "custom",
   "whatsNewAdTypeTips": "default|admob|fan|custom",
   "whatsNewAppAdObject": {
     "appId": "pps.photo.editor.makeup.camera",

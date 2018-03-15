@@ -63,6 +63,10 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
       "whatsNewAdType": "admob",
       "whatsNewAdTypeTips": "default|admob|fan|custom"
+    },
+    {
+      "packageName": "pcm.rainbow.sticker.filter.camera",
+      "nativeFAN": "1818114414906888_1826416604076669"
     }
   ],
   "mainAdType": "admob",

@@ -67,6 +67,11 @@
     {
       "packageName": "pcm.rainbow.sticker.filter.camera",
       "nativeFAN": "1818114414906888_1826416604076669"
+    },
+    {
+      "packageName": "pcm.collage.maker.sticker.face.filter.selfie.editor",
+      "nativeFAN": "847806102058646_847806238725299",
+      "homePageAdType": "fan"
     }
   ],
   "mainAdType": "admob",

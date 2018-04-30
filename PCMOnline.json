@@ -72,6 +72,11 @@
       "packageName": "pcm.collage.maker.sticker.face.filter.selfie.editor",
       "nativeFAN": "847806102058646_847806238725299",
       "homePageAdType": "fan"
+    },
+    {
+      "packageName": "pcm.photo.collage.pro",
+      "nativeFAN": "195303771195723_195303934529040",
+      "homePageAdType": "fan"
     }
   ],
   "mainAdType": "admob",

@@ -101,7 +101,7 @@
       "https://lh3.googleusercontent.com/sqNBoYKvYT_d_xihN0GsI9mYZ5GAThwVF_CLXjAtOjBI3UH5E1tJ0eXFPIy8nZWk2w=h310"
     ]
   },
-  "whatsNewAdType": "custom",
+  "whatsNewAdType": "default",
   "whatsNewAdTypeTips": "default|admob|fan|custom",
   "whatsNewAppAdObject": {
     "appId": "pps.photo.editor.makeup.camera",

@@ -83,7 +83,7 @@
   "mainAdTypeAdTypeTips": "default|admob|fan|custom",
   "showEditorBanner": "2",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
-  "homePageAdType": "fan",
+  "homePageAdType": "default",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
     "appId": "photoBeautyPlus.makeup.camera",

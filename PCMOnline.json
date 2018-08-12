@@ -54,6 +54,11 @@
       "nativeFAN": "847806102058646_847806238725299",
       "homePageAdType": "fan"
     },
+     {
+      "packageName": "pcm.art.heart.camera",
+      "nativeFAN": "1189697907837078_1189698237837045",
+      "homePageAdType": "fan"
+    },
     {
       "packageName": "pcm.photo.collage.master.pro",
       "nativeFAN": "195303771195723_195303934529040",

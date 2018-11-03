@@ -1,3 +1,4 @@
+
 {
   "abcPCMVersion": "0",
   "adByBanned": [
@@ -72,12 +73,12 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "photoBeautyPlus.makeup.camera",
-    "appName": "Selfie Photo Collage Maker",
-    "appUrl": "https://play.google.com/store/apps/details?id=tba.selfie.photo.collage.maker",
-    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphic.png",
-    "iconUrl": "https://lh3.googleusercontent.com/QF-uZ5eXykHk6YqIiovNp9fFk4Ko_RTjzG9_ODgk3B4Swv4eOauBt30K7WDghhMn_6ys=s360",
-    "link": "https://play.google.com/store/apps/details?id=tba.selfie.photo.collage.maker",
+    "appId": "trends.beauty.art.nature.art.editor",
+    "appName": "Nature Photo Frame 👏 👏 👏",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.nature.art.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/p_hl-D-wMQwDbkbrS86H2tziALRHeR6zCN1PVGWe3OjDLzLaZzSFz2cV7lCO01bIkgY=w2880-h1418",
+    "iconUrl": "https://lh3.googleusercontent.com/bSUndAAEHo9Grf9GunJYC5hgXjxpcXfARXYIGakxYTsR99gaHTCvV9_ItTnpRExu2WE=s360",
+    "link": "http://bit.ly/nature_photo_frame",
     "pubName": "TrendsArt",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",

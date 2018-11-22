@@ -73,12 +73,12 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "trends.beauty.art.nature.art.editor",
-    "appName": "Nature Photo Frame 👏 👏 👏",
-    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.nature.art.editor",
-    "featureUrl": "https://lh3.googleusercontent.com/p_hl-D-wMQwDbkbrS86H2tziALRHeR6zCN1PVGWe3OjDLzLaZzSFz2cV7lCO01bIkgY=w2880-h1418",
-    "iconUrl": "https://lh3.googleusercontent.com/bSUndAAEHo9Grf9GunJYC5hgXjxpcXfARXYIGakxYTsR99gaHTCvV9_ItTnpRExu2WE=s360",
-    "link": "http://bit.ly/nature_photo_frame",
+    "appId": "tba.photo.rainbow.effect.rainbbow.camera",
+    "appName": "Photo Rainbow Effect 🌈 🌈 🌈",
+    "appUrl": "https://play.google.com/store/apps/details?id=tba.photo.rainbow.effect.rainbbow.camera",
+    "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic.png",
+    "iconUrl": "https://lh3.googleusercontent.com/ey8eyruqt7k2qCqjZI7dpXm-IBAsrQ_eRqnVz2AiSO_6IM-1GkdJsuvO5MVQ9ZLkdkdk=s180-rw",
+    "link": "http://bit.ly/TrendsArtRainbow",
     "pubName": "TrendsArt",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",

@@ -73,12 +73,12 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "tba.photo.rainbow.effect.rainbbow.camera",
-    "appName": "Photo Rainbow Effect 🌈 🌈 🌈",
-    "appUrl": "https://play.google.com/store/apps/details?id=tba.photo.rainbow.effect.rainbbow.camera",
+    "appId": "tba.cartoon.camera.pic.cut.paste",
+    "appName": "Cartoon Camera - Pic Cut Paste ✂  ⚡ ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=tba.cartoon.camera.pic.cut.paste",
     "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic.png",
-    "iconUrl": "https://lh3.googleusercontent.com/ey8eyruqt7k2qCqjZI7dpXm-IBAsrQ_eRqnVz2AiSO_6IM-1GkdJsuvO5MVQ9ZLkdkdk=s180-rw",
-    "link": "http://bit.ly/TrendsArtRainbow",
+    "iconUrl": "https://lh3.googleusercontent.com/hZVc2ewJ1t3YmnBw6Csqj3LZjGht72hJDj3T8LLzyzy2vdVU1DAkHsT1_mX4Py72LIo=s360",
+    "link": "http://bit.ly/tba_cut",
     "pubName": "TrendsArt",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",

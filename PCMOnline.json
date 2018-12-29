@@ -1,4 +1,3 @@
-
 {
   "abcPCMVersion": "0",
   "adByBanned": [
@@ -73,12 +72,12 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "tba.cartoon.camera.pic.cut.paste",
-    "appName": "Cartoon Camera - Pic Cut Paste ✂  ⚡ ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=tba.cartoon.camera.pic.cut.paste",
-    "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic.png",
-    "iconUrl": "https://lh3.googleusercontent.com/hZVc2ewJ1t3YmnBw6Csqj3LZjGht72hJDj3T8LLzyzy2vdVU1DAkHsT1_mX4Py72LIo=s360",
-    "link": "http://bit.ly/tba_cut",
+    "appId": "tba.wonman.hairstyles",
+    "appName": "Woman Hairstyles 2019 ✂ ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=tba.wonman.hairstyles",
+    "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic1.png",
+    "iconUrl": "https://lh3.googleusercontent.com/Im7w_8OczxKODefS5MLEll1V4twqKiM5MPeodRHlyppx2La1TztGjjOyzUlqF-0cSg=s180-rw",
+    "link": "http://bit.ly/tba_hair",
     "pubName": "TrendsArt",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",

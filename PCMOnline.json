@@ -66,8 +66,9 @@
     },
     {
       "packageName": "pcm.light.crown.photo.editor",
-      "nativeFAN": "2416563145237898_2416563308571215",
-      "homePageAdType": "fan"
+      "nativeFAN": "",
+      "nativeAdMob": "ca-app-pub-3289723990125943/2104300261",
+      "homePageAdType": "admob"
     }
   ],
   "mainAdType": "fan",

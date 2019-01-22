@@ -69,6 +69,11 @@
       "nativeFAN": "",
       "nativeAdMob": "ca-app-pub-3289723990125943/2104300261",
       "homePageAdType": "admob"
+    },
+    {
+      "packageName": "pcm.live.face.camera.free.cute.funny.motion.sticker",
+      "nativeAdMob": "ca-app-pub-3289723990125943/7408791358",
+      "homePageAdType": "admob"
     }
   ],
   "mainAdType": "fan",

@@ -56,7 +56,12 @@
     },
      {
       "packageName": "pcm.art.heart.camera",
-      "homePageAdType": "admob"
+      "homePageAdType": "admob",
+
+      "bannerAdMob": "ca-app-pub-3289723990125943/8535151675",
+      "interstitialAdMob": "ca-app-pub-3289723990125943/8067537372",
+      "mainAdType": "admob",
+      "nativeAdMob": "ca-app-pub-3289723990125943/2543747952" 
     },
     {
       "packageName": "pcm.photo.collage.master.pro",

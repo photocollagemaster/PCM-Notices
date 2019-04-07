@@ -95,12 +95,12 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "tba.wonman.hairstyles",
-    "appName": "Woman Hairstyles 2019 ✂ ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=tba.wonman.hairstyles",
-    "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic1.png",
-    "iconUrl": "https://lh3.googleusercontent.com/Im7w_8OczxKODefS5MLEll1V4twqKiM5MPeodRHlyppx2La1TztGjjOyzUlqF-0cSg=s180-rw",
-    "link": "http://bit.ly/tba_hair",
+    "appId": "trends.beauty.sweet.snap",
+    "appName": "Sweet Face Snap Selfie ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.sweet.snap",
+    "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic_sw.png",
+    "iconUrl": "https://lh3.googleusercontent.com/FCZpSMWJfT3jzwFbgWFLq7xXQZ1ZXIZ7hZtrnKJa-GM9kDA_YKqNJUSP3FGGuJlftjw=s180-rw",
+    "link": "",
     "pubName": "TrendsArt",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",

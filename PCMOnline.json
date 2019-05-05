@@ -74,6 +74,8 @@
       "nativeAdMob": "ca-app-pub-3289723990125943/2104300261",
       "bannerAdMob": "ca-app-pub-3289723990125943/8911117936",
       "interstitialAdMob": "ca-app-pub-3289723990125943/7350624252",
+      "bannerFAN": "2416563145237898_2485379491689596",
+      "interstitialFAN": "2416563145237898_2485380375022841",
       "mainAdType": "admob",
       "homePageAdType": "admob"
     },

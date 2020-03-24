@@ -112,6 +112,22 @@
       "https://lh3.googleusercontent.com/sqNBoYKvYT_d_xihN0GsI9mYZ5GAThwVF_CLXjAtOjBI3UH5E1tJ0eXFPIy8nZWk2w=h310"
     ]
   },
+  "homePageAppAdObjectHW": {
+    "appId": "pcm.huawei.light.crown.photo.editor",
+    "appName": "Light Crown Beauty ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.sweet.snap",
+    "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphiclc.png",
+    "iconUrl": "https://lh3.googleusercontent.com/aN8jfvJlGu1YsgbACmcztFrVymy0F0ZkcPcB3gY4ugmDnhHptlqJJrGRrJ00Dq3mJyc=s360-rw",
+    "link": "",
+    "pubName": "TrendsArt",
+    "screenshots": [
+      "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",
+      "https://lh3.googleusercontent.com/6-bsdFv-Ci4NPMlFHqQuCyKomdT3o0Alkx9sMvKLSiq_lm8kSJWca7mYrVQ_WTyMOw=h310",
+      "https://lh3.googleusercontent.com/iZcbyzeGOsVQP0MwzUygtWCqhRT_HP8RSE4UzYYlQPBWF_cr8W5BQxDr8K15MbHT-A=h310",
+      "https://lh3.googleusercontent.com/5rsDRvRFVf1Pv2HeZxfAI6DxoFHQm9pIXOVBJnIMvv3xHG7IaSAGUk1-ryw0N2HX7Yk=h310",
+      "https://lh3.googleusercontent.com/sqNBoYKvYT_d_xihN0GsI9mYZ5GAThwVF_CLXjAtOjBI3UH5E1tJ0eXFPIy8nZWk2w=h310"
+    ]
+  },
   "whatsNewAdType": "default",
   "whatsNewAdTypeTips": "default|admob|fan|custom",
   "whatsNewAppAdObject": {
@@ -121,6 +137,16 @@
     "featureUrl": "",
     "iconUrl": "https://lh3.googleusercontent.com/QF-uZ5eXykHk6YqIiovNp9fFk4Ko_RTjzG9_ODgk3B4Swv4eOauBt30K7WDghhMn_6ys=s360",
     "link": "https://goo.gl/G8oa6d",
+    "pubName": "",
+    "screenshots": []
+  },
+  "whatsNewAppAdObjectHW": {
+    "appId": "pcm.huawei.light.crown.photo.editor",
+    "appName": "Selfie Photo Collage Maker",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.sweet.snap",
+    "featureUrl": "",
+    "iconUrl": "https://lh3.googleusercontent.com/aN8jfvJlGu1YsgbACmcztFrVymy0F0ZkcPcB3gY4ugmDnhHptlqJJrGRrJ00Dq3mJyc=s360-rw",
+    "link": "",
     "pubName": "",
     "screenshots": []
   }

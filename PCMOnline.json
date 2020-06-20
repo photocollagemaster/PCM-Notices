@@ -97,11 +97,11 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "trends.beauty.sweet.snap",
-    "appName": "Sweet Face Snap Selfie ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.sweet.snap",
+    "appId": "trends.beauty.art.face.sweet.camera",
+    "appName": "Sweet Beauty Camera ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.face.sweet.camera",
     "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic_sw.png",
-    "iconUrl": "https://lh3.googleusercontent.com/FCZpSMWJfT3jzwFbgWFLq7xXQZ1ZXIZ7hZtrnKJa-GM9kDA_YKqNJUSP3FGGuJlftjw=s180-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/BWclE8uvZJtIEQiaxDxhg0hXOptE54__7CCNF4mEV20AnZugsyvn7sObBWH7zXGOlkg=s360-rw",
     "link": "",
     "pubName": "TrendsArt",
     "screenshots": [
@@ -115,9 +115,9 @@
   "homePageAppAdObjectHW": {
     "appId": "pcm.huawei.light.crown.photo.editor",
     "appName": "Light Crown Beauty ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.sweet.snap",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.face.sweet.camera",
     "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphiclc.png",
-    "iconUrl": "https://lh3.googleusercontent.com/aN8jfvJlGu1YsgbACmcztFrVymy0F0ZkcPcB3gY4ugmDnhHptlqJJrGRrJ00Dq3mJyc=s360-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/BWclE8uvZJtIEQiaxDxhg0hXOptE54__7CCNF4mEV20AnZugsyvn7sObBWH7zXGOlkg=s360-rw",
     "link": "",
     "pubName": "TrendsArt",
     "screenshots": [

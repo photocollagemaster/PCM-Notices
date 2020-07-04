@@ -97,13 +97,13 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "trends.beauty.art.face.sweet.camera",
-    "appName": "Sweet Beauty Camera ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.face.sweet.camera",
+    "appId": "cofs.live.face.sticker.sweet.camera",
+    "appName": "Live face sticker ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=cofs.live.face.sticker.sweet.camera",
     "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic_sw.png",
-    "iconUrl": "https://lh3.googleusercontent.com/BWclE8uvZJtIEQiaxDxhg0hXOptE54__7CCNF4mEV20AnZugsyvn7sObBWH7zXGOlkg=s360-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/DvRPnarPQnrsDQZUoRdMmmCp7kO_Nhka3WRhSEhuOm4JW0zLlQ_MFoj3Jcp8i5uVBVA=s360-rw",
     "link": "",
-    "pubName": "TrendsArt",
+    "pubName": "Colorful Filter Studio",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",
       "https://lh3.googleusercontent.com/6-bsdFv-Ci4NPMlFHqQuCyKomdT3o0Alkx9sMvKLSiq_lm8kSJWca7mYrVQ_WTyMOw=h310",

@@ -97,11 +97,11 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "cofs.live.face.sticker.sweet.camera",
-    "appName": "Live face sticker ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=cofs.live.face.sticker.sweet.camera",
+    "appId": "sweet.art.master.sweet.beauty.camera",
+    "appName": "Sweet Snap - selfie ⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=sweet.art.master.sweet.beauty.camera",
     "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic_sw.png",
-    "iconUrl": "https://lh3.googleusercontent.com/DvRPnarPQnrsDQZUoRdMmmCp7kO_Nhka3WRhSEhuOm4JW0zLlQ_MFoj3Jcp8i5uVBVA=s360-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/MQq_bGo04atmbkEZfZRMrL1q1JOoGiYqzXHIQ8liFdNK_2zzba71b-fjjmcrD80pXHg=s180-rw",
     "link": "",
     "pubName": "Colorful Filter Studio",
     "screenshots": [

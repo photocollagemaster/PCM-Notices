@@ -88,6 +88,12 @@
       "packageName": "pcm.live.face.camera.cute",
       "nativeAdMob": "ca-app-pub-3289723990125943/5201747640",
       "homePageAdType": "admob"
+    },
+    {
+      "packageName": "pcm.face.filter.editor.collage",
+      "nativeFAN": "372550023716713_372550290383353",
+      "bannerFAN": "372550023716713_372550953716620",
+      "interstitialFAN": "372550023716713_372550823716633"
     }
   ],
   "mainAdType": "fan",

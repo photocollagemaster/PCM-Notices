@@ -61,7 +61,11 @@
       "bannerAdMob": "ca-app-pub-3289723990125943/8535151675",
       "interstitialAdMob": "ca-app-pub-3289723990125943/8067537372",
       "mainAdType": "admob",
-      "nativeAdMob": "ca-app-pub-3289723990125943/2543747952" 
+      "nativeAdMob": "ca-app-pub-3289723990125943/2543747952",
+
+	  "bannerFAN": "1189697907837078_1191996907607178",
+	  "interstitialFAN": "1189697907837078_1190274404446095",
+	  "nativeFAN": "1189697907837078_1189698237837045"
     },
     {
       "packageName": "pcm.photo.collage.master.pro",

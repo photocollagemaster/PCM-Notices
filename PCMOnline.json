@@ -59,7 +59,14 @@
       "homePageAdType": "fan",
       "mainAdType": "fan",
 
-     
+
+
+      
+      "bannerAdMob": "ca-app-pub-3289723990125943/4687834871",
+      "interstitialAdMob": "ca-app-pub-3289723990125943/5593227592",
+	  "nativeAdMob": "ca-app-pub-3289723990125943/1699048760",
+
+	  
 
 	  "bannerFAN": "1189697907837078_1191996907607178",
 	  "interstitialFAN": "1189697907837078_1872728299534032",

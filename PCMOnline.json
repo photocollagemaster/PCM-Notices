@@ -112,13 +112,12 @@
   "homePageAdType": "fan",
   "homePageAdTypeTips": "default|admob|fan|custom",
   "homePageAppAdObject": {
-    "appId": "sweet.art.master.sweet.beauty.camera",
-    "appName": "Sweet Snap - selfie ⚡ ⚡",
-    "appUrl": "https://play.google.com/store/apps/details?id=sweet.art.master.sweet.beauty.camera",
+    "appId": "live.face.beauty.sweet.snap_beauty.camera",
+    "appName": "Sweet Snap Beauty Camera⚡ ⚡",
+    "appUrl": "https://play.google.com/store/apps/details?id=live.face.beauty.sweet.snap_beauty.camera",
     "featureUrl": "https://raw.githubusercontent.com/photocollagemaster/PCM-Notices/master/AppsCollection/graphic_sw.png",
-    "iconUrl": "https://lh3.googleusercontent.com/MQq_bGo04atmbkEZfZRMrL1q1JOoGiYqzXHIQ8liFdNK_2zzba71b-fjjmcrD80pXHg=s180-rw",
     "link": "",
-    "pubName": "Use face camera offers snap for absolutely",
+    "pubName": "Live Face Beauty",
     "screenshots": [
       "https://lh3.googleusercontent.com/99ixb22Qa723uRITszzOWvcejKpdV_1plsaWanuCy-vyei1i-H8BnLwESX4Ir6-vF1v5=h310",
       "https://lh3.googleusercontent.com/6-bsdFv-Ci4NPMlFHqQuCyKomdT3o0Alkx9sMvKLSiq_lm8kSJWca7mYrVQ_WTyMOw=h310",
